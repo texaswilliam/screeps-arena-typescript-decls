@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": "ts",
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "module": "CommonJS",
+        "paths": { "/*": [ "*" ] },
+        "strict": true
+    },
+    "include": ["**/*.d.ts", "ts/game/prototypes.ts"]
+}

@@ -1,0 +1,2 @@
+In the default configuration, Flag and BodyPart will be loaded. These are needed for Capture the Flag and Collect and Control, respectively. TypeScript offers
+no way to include these conditionally in declaration files, so consider commenting them if you find them distracting.
